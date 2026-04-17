@@ -1,0 +1,9 @@
+[build]
+  publish = "."
+  command = ""
+
+[[redirects]]
+  from = "/"
+  to = "/Portfolio13.html"
+  status = 200
+  force = true
